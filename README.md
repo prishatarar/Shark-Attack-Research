@@ -140,6 +140,7 @@ This project helped me understand how machine learning can be used on real world
 - I would also like to compare the models more clearly using the same evaluation metrics.
 
 Overall, better and more detailed data would help make the predictions more accurate and meaningful.
+
 ---
 
 ## Author
