@@ -16,7 +16,7 @@ The goal is to:
 
 This project resulted in a research paper submitted to the Curetrix Journal.
 
-📄 [Read the full paper](docs/paper/shark_attack_prediction_ml_analysis.pdf)
+📄 [Read the full paper](docs/paper/Research_Paper_Shark_Attacks_PrishaTarar.pdf)
 
 ### Summary
 - Developed ML models to predict shark attack fatality
