@@ -12,9 +12,8 @@ The goal is to:
 
 ---
 
-## Research Paper
+## Research Paper (published in Curieux Journal, December 2025 issue)
 
-This project resulted in a research paper submitted to the Curieux Journal.
 📄 [Read full paper published in Curieux Journal publication, December 2025 issue (pages 405-424)](https://www.curieuxreview.com/_files/ugd/60ed3c_4b51248138e7475eaacb1362e158908c.pdf)
 
 
