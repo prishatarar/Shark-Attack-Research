@@ -14,11 +14,11 @@ The goal is to:
 
 ## Research Paper
 
-This project resulted in a research paper submitted to the Curetrix Journal.
- Link to the Curiex Journal issue, (page numbers 405-424): (https://www.curieuxreview.com/_files/ugd/60ed3c_4b51248138e7475eaacb1362e158908c.pdf)
+This project resulted in a research paper submitted to the Curieux Journal.
+📄 [Read full paper published in Curieux Journal publication, December 2025 issue (pages 405-424)](https://www.curieuxreview.com/_files/ugd/60ed3c_4b51248138e7475eaacb1362e158908c.pdf)
 
- 
-📄 [Read the full paper](docs/paper/Research_Paper_Shark_Attacks_PrishaTarar.pdf)
+
+📄 [Paper publication copy uploaded to git](docs/paper/Research_Paper_Shark_Attacks_PrishaTarar.pdf)
 
 ### Summary
 - Developed ML models to predict shark attack fatality
