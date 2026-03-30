@@ -100,7 +100,6 @@ I also computed PR-AUC for each model using sklearn.metrics packages roc_auc_sco
     
 ---
 
-## Future Improvements
 ## Key Results
 *(Update these after running your models)*
 
