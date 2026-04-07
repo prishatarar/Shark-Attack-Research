@@ -14,10 +14,10 @@ The goal is to:
 
 ## Research Paper (published in Curieux Journal, December 2025 issue)
 
-📄 [Read full paper published in Curieux Journal publication, December 2025 issue (pages 405-424)](https://www.curieuxreview.com/_files/ugd/60ed3c_4b51248138e7475eaacb1362e158908c.pdf)
+📄 [Read full paper published in Curieux Journal publication, December 2025 issue ](https://www.curieuxreview.com/_files/ugd/60ed3c_4b51248138e7475eaacb1362e158908c.pdf)
 
 
-📄 [Paper publication copy uploaded to git](docs/paper/Research_Paper_Shark_Attacks_PrishaTarar.pdf)
+📄 [Paper publication copy](file:///Users/prishatarar/Downloads/Research_Paper_Shark_Attacks_PrishaTarar%20(1).pdf)
 
 ### Summary
 - Developed ML models to predict shark attack fatality
