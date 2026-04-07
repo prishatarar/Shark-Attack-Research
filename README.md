@@ -17,7 +17,8 @@ The goal is to:
 📄 [Read full paper published in Curieux Journal publication, December 2025 issue ](https://www.curieuxreview.com/_files/ugd/60ed3c_4b51248138e7475eaacb1362e158908c.pdf)
 
 
-📄 [Paper publication copy](file:///Users/prishatarar/Downloads/Research_Paper_Shark_Attacks_PrishaTarar%20(1).pdf)
+📄 [Paper publication copy](https://docs.google.com/document/d/1fV129RQNmo5VoOXkS4m4Xsq6Jj5V0nMTatH_HB7D0IQ/edit?tab=t.0)
+
 
 ### Summary
 - Developed ML models to predict shark attack fatality
